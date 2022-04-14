@@ -7,17 +7,17 @@ DATA SET of the SAMPLE SUPER STORE is accessed here:
 
 https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset/download
 
-TOOLS USED:
+TOOLS USED:  
 PYTHON , JUPITER NOTEBOOK
 
-LIBRARIES USED:
+LIBRARIES USED:  
 PANDAS, MATPLOTLIB , SEABORN
 
 DataFrames used in code:
 
-df           --- DataFrame to load data set.
-consumer_df  ---DataFrame to filter the Consumers data
-corporate_df ---DataFrame to filter the Corporate data
-df_profit    ---DataFrame to filter the orders with profits
-df_loss      ---DataFrame to filter the orders with losses
+df &emsp;&emsp;&emsp; --- DataFrame to load data set.  
+consumer_df &emsp;&emsp;---DataFrame to filter the Consumers data  
+corporate_df &emsp; ---DataFrame to filter the Corporate data  
+df_profit &emsp;&emsp;---DataFrame to filter the orders with profits  
+df_loss &emsp;&emsp;---DataFrame to filter the orders with losses  
 
